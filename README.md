@@ -144,4 +144,3 @@ showOriginalUrl: false
 В `src/data/portfolioData.js` найди блок `contact`.
 
 Там можно поменять email, LinkedIn, Instagram, Telegram и Behance.
-
